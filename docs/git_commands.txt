@@ -1,0 +1,58 @@
+git  : code managment tool
+
+	github 
+	gitlab
+	
+	
+pwd : present working directory
+
+ls : list objects & folders
+
+cd : change directory
+
+cd .. : back one directory
+
+clear : screen clear
+
+mkdir directory_name: create new directory
+
+=======================================================
+
+There are 3 config files of git those are present when you install git on a system
+
+system config file
+global config file
+local config file
+
+
+git config --list : list down content of all config files
+
+git config --system --list : list down content of system config file
+git config --global --list : list down content of global config file
+git config --local --list : list down content of local config file
+
+git config --local user.email "nithi22yadav@gmail.com"
+git config --local user.name "Babitayadav12"
+  
+git init : initilize git on the present working directory
+
+git clone https://github.com/Babitayadav12/test_git.git
+
+git status : gives you the status of present repo
+
+git add file_name : to track the file via git ( git will start keeping track of this file)
+
+git commit -m "commit message"
+
+git push origin branch
+
+git pull origin branch
+==========================================================
+
+Python virtual environment
+
+venv -m name_of_environment
+
+https://github.com/Babitayadav12/test_git.git
+
+https://github.com/Babitayadav12/sql_coding.git
