@@ -44,9 +44,9 @@ git add file_name : to track the file via git ( git will start keeping track of 
 
 git commit -m "commit message"
 
-git push origin branch
+git push origin branch_name
 
-git pull origin branch
+git pull origin branch_name
 ==========================================================
 
 Python virtual environment
