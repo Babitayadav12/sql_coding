@@ -56,3 +56,11 @@ venv -m name_of_environment
 https://github.com/Babitayadav12/test_git.git
 
 https://github.com/Babitayadav12/sql_coding.git
+
+
+file types:
+csv : comma seperated values
+json : 
+xml files : 
+avro files
+parquet files
