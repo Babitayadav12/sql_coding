@@ -1,2 +1,2 @@
 # sql_coding
-We are creating this repository for sql practice.
+We are creating this repository for sql & python practice.
